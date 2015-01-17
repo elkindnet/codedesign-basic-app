@@ -2,6 +2,7 @@
 
 [Basic App Landing Page](http://codedesign.elkind.net/themes/bootstrap-theme-basic-app/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Code|Design](http://http://codedesign.elkind.net/).
 
+
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-basic-app/gh-pages/screenshot.jpg">
 
 ## Getting Started
