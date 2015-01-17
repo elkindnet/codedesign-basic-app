@@ -24,4 +24,4 @@ Code|Design is based on the [Bootstrap](http://getbootstrap.com/) framework crea
 
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/elkindnet/BasicApp/blob/master/LICENSE) license.
+Copyright 1994-2047 elkind.net Code released under the [Apache 2.0](https://github.com/elkindnet/BasicApp/blob/master/LICENSE) license.
