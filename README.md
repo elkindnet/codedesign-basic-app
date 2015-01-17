@@ -14,7 +14,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-Code|Design was created by and is maintained by **Jeny Elkind**, Managing Parter at [elkind.net](http://elkind.net/).
+Code|Design was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
 
 * https://github.com/jenyelkind
 * https://elkind.net
