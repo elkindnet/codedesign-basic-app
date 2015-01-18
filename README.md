@@ -4,6 +4,7 @@
 
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-basic-app/gh-pages/screenshot.jpg">
+###[Live Demo](http://codedesign.elkind.net/themes/basicelement/)
 
 ## Getting Started
 
@@ -27,4 +28,4 @@ Code|Design is based on the [Bootstrap](http://getbootstrap.com/) framework crea
 
 ## Copyright and License
 
-Copyright 1994-2047 elkind.net Code released under the [Apache 2.0](https://github.com/elkindnet/BasicApp/blob/master/LICENSE) license.
+Copyright 1994-2047 elkind.net Code released under the [Apache 2.0](https://github.com/elkindnet/codedesign-basic-app/blob/gh-pages/LICENSE) license.
