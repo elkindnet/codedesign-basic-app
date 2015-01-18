@@ -1,6 +1,6 @@
-# [Code|Design](http://http://codedesign.elkind.net/) - [Basic App Landing Page](http://codedesign.elkind.net/themes/bootstrap-theme-basic-app/)
+# [Code/Design](http://http://codedesign.elkind.net/) - [Basic App Landing Page](http://codedesign.elkind.net/themes/bootstrap-theme-basic-app/)
 
-[Basic App Landing Page](http://codedesign.elkind.net/themes/bootstrap-theme-basic-app/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Code|Design](http://http://codedesign.elkind.net/).
+[Basic App Landing Page](http://codedesign.elkind.net/themes/bootstrap-theme-basic-app/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://http://codedesign.elkind.net/).
 
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-basic-app/gh-pages/screenshot.jpg">
@@ -14,7 +14,7 @@ To use this template, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/BasicApp/issues) here on GitHub or leave a comment on the [template overview page at Code|Design](http://codedesign.elkind.net/themes/bootstrap-theme-basic-app/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/BasicApp/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/themes/bootstrap-theme-basic-app/).
 
 ## Creator
 
