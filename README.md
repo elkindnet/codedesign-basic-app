@@ -4,8 +4,7 @@
 
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-basic-app/gh-pages/screenshot.jpg">
-###[Live Demo](http://codedesign.elkind.net/themes/basicelement/)
-###[Download](https://github.com/elkindnet/codedesign-basic-app/archive/gh-pages.zip)
+###[Live Demo](http://codedesign.elkind.net/themes/basicelement/) ###[Download](https://github.com/elkindnet/codedesign-basic-app/archive/gh-pages.zip)
 
 ## Getting Started
 
