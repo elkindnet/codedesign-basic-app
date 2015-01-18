@@ -5,12 +5,13 @@
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-basic-app/gh-pages/screenshot.jpg">
 ###[Live Demo](http://codedesign.elkind.net/themes/basicelement/)
+###[Download](https://github.com/elkindnet/codedesign-basic-app/archive/gh-pages.zip)
 
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
-* Download the latest release on Code|Design
-* Fork this repository on GitHub
+* [Download](https://github.com/elkindnet/codedesign-basic-app/archive/gh-pages.zip) the latest release on Github
+* [Fork](https://github.com/elkindnet/codedesign-basic-app/fork) this repository on GitHub
 
 ## Bugs and Issues
 
@@ -18,7 +19,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-Code|Design was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
+Code/Design was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
 
 * https://github.com/jenyelkind
 * https://elkind.net
