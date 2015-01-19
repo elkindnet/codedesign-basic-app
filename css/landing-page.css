@@ -576,6 +576,7 @@ vertical-align: middle;
   margin: 15px 3px;
   line-height: 20px;
   text-align: center;
+  font-size: 16px;
 }
 .footer hr {
   border-color: #dddddd;
@@ -994,7 +995,8 @@ vertical-align: middle;
     margin-top: 20px;
    }
 
-   .landing-page .section-demo .carousel-inner{
+   .landing-page .carousel-inner{
+
   }
 
 .landing-page .section-features {
@@ -1095,7 +1097,7 @@ vertical-align: middle;
 
    .landing-page .section-testimonial .carousel-inner  h3{
     font-weight: 300;
-    font-size: 26px;
+    font-size: 22px;
     line-height: 36px;
    }
 
@@ -1110,7 +1112,7 @@ vertical-align: middle;
    }
 
 .carousel.fade {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
    .landing-page .carousel.fade {
@@ -1219,7 +1221,7 @@ vertical-align: middle;
     height: auto;
   }
   .landing-page .carousel-indicators{
-    bottom: -30px;
+  /*  bottom: -30px;  */
   }
   .landing-page .carousel{
     min-height: 210px;
@@ -1227,6 +1229,7 @@ vertical-align: middle;
   .footer nav.pull-left, .footer:not(.footer-big) nav > ul li, .pull-right {
     float: none !important;
   }
+
 }
 
 @media (min-width: 768px){
@@ -1236,8 +1239,11 @@ vertical-align: middle;
 }
 
 
-
-
+@media (max-width: 992px){
+  .section-demo {
+    text-align: center;
+  }
+}
 
 
 
@@ -1409,3 +1415,29 @@ vertical-align: middle;
     margin-bottom: 10px;
   }
 }
+
+
+ul.banner-social-buttons {
+  margin-top: 0;
+}
+
+ul.banner-social-buttons li {
+  margin-bottom: 20px;
+
+}
+
+@media(max-width:1199px) {
+  ul.banner-social-buttons {
+    margin-top: 15px;
+  }
+}
+
+@media(max-width:767px) {
+  ul.banner-social-buttons li {
+    padding: 0 5px;
+  }
+
+  ul.banner-social-buttons li:last-child {
+    margin-bottom: 0;
+
+  }
