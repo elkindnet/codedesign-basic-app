@@ -29,3 +29,5 @@ Code|Design is based on the [Bootstrap](http://getbootstrap.com/) framework crea
 ## Copyright and License
 
 Copyright 1994-2047 elkind.net Code released under the [Apache 2.0](https://github.com/elkindnet/codedesign-basic-app/blob/gh-pages/LICENSE) license.
+
+The theme was inspired by Creative Tim’s <a href="http://www.creative-tim.com/product/awesome-landing-page" target="_blank">Awesome Landing Page</a>
